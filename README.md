@@ -6,7 +6,7 @@ A static front-end recreation of the Biriyani By Kilo home page, built with HTML
 
 ## Screenshot
 
-![Biriyani By Kilo home page](screenshots/home.png)
+![Biriyani By Kilo home page](Images/website_img.png)
 
 ## About
 
@@ -24,10 +24,6 @@ This project recreates the Biriyani By Kilo home page as a desktop layout. It fo
 - Working with fonts, spacing and colour to match a brand style
 - Structuring a long landing page into clear sections
 
-## Sections
-
-- [Hero banner]
-- [Add the sections you built, e.g. menu highlights, offers, footer]
 
 ## Project Structure
 
@@ -36,10 +32,8 @@ biriyani-by-kilo-homepage/
 ├── index.html
 ├── style.css
 ├── images/
-└── screenshots/
 ```
 
-Update this tree to match your actual folders.
 
 ## How to Run
 
